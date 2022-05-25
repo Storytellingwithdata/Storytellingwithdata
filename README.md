@@ -1,16 +1,16 @@
-### Hi there 👋
+Hi there 💙
+I'm Tal, a self-taught data analyst from Israel.
 
-<!--
-**Storytellingwithdata/Storytellingwithdata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ About Me in 30 Secs ✨
 
-Here are some ideas to get you started:
+👩🏻‍💻 Economist turned data analyst
+📊 Transition to data since 2021
+📝 Taught myself SQL, Excel, Pbi and Tableau
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚡️ Currently ⚡️
+Fun around with linear regressions, data storytelling and different types of algorithms
+Brushing up on data cleaning and wrangling skills
+
+💡 Core Competencies 💡
+Tools: SQL, Excel, Tableau, Pbi
+Skills Set: Data Cleaning and Wrangling, Data Visualisation, Data Analysis, Relational Databases, Dashboard Design and Development
