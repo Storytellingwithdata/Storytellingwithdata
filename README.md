@@ -1,12 +1,12 @@
 
 ### Hey! Nice to see you 😎
 
-I'm Tal, a self-taught data analyst from Israel.
+I'm Tal, a self-taught data analyst | SQL Enthusiast from Israel.
 
 ### ✨ About Me in 15 Secs ✨
 - 👩🏻‍💻 Economist turned data analyst
 - 📊 Transition to data since **2021**
-- 📝 Taught myself SQL, Python and Tableau
+- 📝 Taught myself SQL, Python, Excel, PBI and Tableau
 
 ### ⚡️ Currently ⚡️
 - Fun around with linear regressions, data storytelling and different types of algorithms
